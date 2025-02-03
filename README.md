@@ -76,15 +76,10 @@ If you encounter any product without its corresponding category, use the followi
    - Analyze the sales data to identify any seasonal trends.
    - Determine which months have the highest and lowest sales and profits.
 
-### Iteration 5: Utilizing Excel's Analytical Tools
+### Iteration 5: Utilizing Google Sheets Analytical Tools
 
 - **Analyze Data with Data Analysis Toolpak**
    - Perform a regression analysis to understand the relationship between cost and profit using the XMLiner Analysis Toolpak.
-
-### Iteration 6: Integrating ChatGPT for Enhanced Data Insights
-
-1. **Integrate ChatGPT in Excel**
-   - Learn how to use ChatGPT within Excel for generating insights and answering questions about your data.
 
 ### Bonus Iteration: Analyzing London Weather Data
 
@@ -97,7 +92,7 @@ In this bonus iteration, you will analyze weather data from London. The dataset 
 - Humidity (%)
 
 1. **Load the Data**
-   - Open the `london_weather.csv` file in Excel.
+   - Open the `london_weather.csv` file in Google Sheets.
    - Familiarize yourself with the dataset by browsing through the columns and rows.
 
 2. **Data Cleaning**
