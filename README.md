@@ -1,5 +1,7 @@
 # LAB-GoogleSheetsFDA-Advanced-Data-Analysis
 
+![Student LAB](https://images-ext-1.discordapp.net/external/dkBicrHzUxUqUh-WDRAkj8VQIBL8ggLQGcro1kmaSHA/https/res.cloudinary.com/edukami-staging/image/upload/v1739975930/labImages/cuerdenwd29wgrvn4m0j.png?format=webp&quality=lossless&width=1391&height=288)
+
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
@@ -117,3 +119,4 @@ In this bonus iteration, you will analyze weather data from London. The dataset 
    - Look for trends in humidity over time.
    - How does humidity compare across different months or seasons?
 
+![Happy Coding](https://images-ext-1.discordapp.net/external/yCS9e-T4ZqwyrDeKZivDFuwoXfN2h5eWdr9eg6YedlU/https/res.cloudinary.com/edukami-staging/image/upload/v1739975973/labImages/dytxhbiiyolvrbgipq4x.png?format=webp&quality=lossless&width=1391&height=288)
