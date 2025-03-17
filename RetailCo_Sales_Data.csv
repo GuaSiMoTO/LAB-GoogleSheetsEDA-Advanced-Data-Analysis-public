@@ -1,0 +1,51 @@
+Order ID;Product;Category;Sales Amount;Cost;Profit;Date of Sale;Region
+1001;Laptop;Electronics;470,2;95,45;116,6;01/01/2023;West
+1002;Mouse;Electronics;420,23;89,97;143,88;02/01/2023;North
+1003;Laptop;Electronics;69,73;83,23;197,07;03/01/2023;West
+1004;Keyboard;Electronics;112,63;41,53;177,29;04/01/2023;North
+1005;Printer;Accessories;57,62;46,05;40,85;05/01/2023;South
+1006;Laptop;Office Supplies;354,7;54,39;51,46;06/01/2023;West
+1007;Mouse;Electronics;238,54;243,38;42,96;07/01/2023;West
+1008;Mouse;Office Supplies;247,52;225,24;52,31;08/01/2023;North
+1009;Printer;Accessories;130,61;175,25;47,63;09/01/2023;North
+1010;Laptop;Electronics;206,31;230,4;87,12;10/01/2023;North
+1011;Laptop;Office Supplies;308,75;96,15;21,76;11/01/2023;East
+1012;Monitor;Accessories;427,76;52,06;148,47;12/01/2023;East
+1013;Laptop;Electronics;488,46;30,84;37,93;13/01/2023;West
+1014;Mouse;Accessories;333,72;207,92;79,87;14/01/2023;East
+1015;Mouse;Accessories;349,48;44,71;171,92;15/01/2023;North
+1016;Keyboard;Accessories;245,33;130,76;129,59;16/01/2023;South
+1017;Laptop;Office Supplies;263,37;173,98;117,39;17/01/2023;East
+1018;Printer;Office Supplies;485,68;55,42;98,91;18/01/2023;North
+1019;Printer;Accessories;179,89;222,59;59,17;19/01/2023;North
+1020;Keyboard;Office Supplies;214,13;94,13;21,65;20/01/2023;West
+1021;Laptop;Electronics;93,02;224,23;116,42;21/01/2023;West
+1022;Mouse;Accessories;67,21;237,93;176,58;22/01/2023;North
+1023;Keyboard;Office Supplies;374,55;287,62;101,77;23/01/2023;West
+1024;Keyboard;Electronics;82,56;135,76;109,6;24/01/2023;East
+1025;Monitor;Electronics;164,8;59,38;147,28;25/01/2023;West
+1026;Keyboard;Office Supplies;56,52;180,9;199,02;26/01/2023;South
+1027;Printer;Electronics;297,69;134,05;84,85;27/01/2023;North
+1028;Printer;Accessories;244,01;234,6;117,99;28/01/2023;East
+1029;Laptop;Office Supplies;339,05;232,95;94,15;29/01/2023;West
+1030;Printer;Accessories;257,26;86,32;26,19;30/01/2023;South
+1031;Mouse;Accessories;289,56;66,22;41,65;31/01/2023;West
+1032;Mouse;Electronics;410,08;274,77;81,79;01/02/2023;East
+1033;Printer;Electronics;374,48;160,67;73,05;02/02/2023;East
+1034;Mouse;Electronics;240,74;103,2;72,55;03/02/2023;North
+1035;Monitor;Accessories;165,9;235,79;187,24;04/02/2023;East
+1036;Printer;Office Supplies;224,91;193,82;78,56;05/02/2023;South
+1037;Laptop;Accessories;329,21;144,48;171,35;06/02/2023;West
+1038;Mouse;Electronics;307,71;57,06;117,08;07/02/2023;East
+1039;Keyboard;Office Supplies;483,98;151,09;33,82;08/02/2023;South
+1040;Keyboard;Accessories;464,58;187,56;73,43;09/02/2023;West
+1041;Mouse;Electronics;436,9;292,03;99,69;10/02/2023;North
+1042;Mouse;Electronics;325,25;68,88;120,68;11/02/2023;North
+1043;Keyboard;Electronics;338,43;147,91;180,25;12/02/2023;West
+1044;Keyboard;Electronics;162,74;287,26;94,86;13/02/2023;South
+1045;Keyboard;Office Supplies;377,7;83,01;83,49;14/02/2023;West
+1046;Keyboard;Office Supplies;378,26;234,54;162,94;15/02/2023;East
+1047;Laptop;Office Supplies;384,34;97,19;182,89;16/02/2023;North
+1048;Keyboard;Accessories;137,18;219,76;110,68;17/02/2023;South
+1049;Mouse;Accessories;290,69;214,95;106,93;18/02/2023;North
+1050;Printer;Office Supplies;311,3;297,98;83,25;19/02/2023;West
