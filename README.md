@@ -1,6 +1,6 @@
-# LAB-GoogleSheetsFDA-Advanced-Data-Analysis
-
 ![Student LAB](https://images-ext-1.discordapp.net/external/dkBicrHzUxUqUh-WDRAkj8VQIBL8ggLQGcro1kmaSHA/https/res.cloudinary.com/edukami-staging/image/upload/v1739975930/labImages/cuerdenwd29wgrvn4m0j.png?format=webp&quality=lossless&width=1391&height=288)
+
+# LAB-GoogleSheetsFDA-Advanced-Data-Analysis
 
 ## Introduction
 
